@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "algorithm": "cpp",
+        "__split_buffer": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "string_view": "cpp",
+        "__locale": "cpp",
+        "__string": "cpp",
+        "ios": "cpp",
+        "limits": "cpp",
+        "chrono": "cpp",
+        "queue": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
